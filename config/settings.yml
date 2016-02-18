@@ -1,0 +1,15 @@
+login:
+  idnet_enabled:
+    default: false
+    client: true
+  idnet_client_id:
+    default: ''
+    client: true
+  idnet_client_secret: ''
+  idnet_auto_create_user: false
+  idnet_auto_login:
+    default: false
+    client: true
+  idnet_button_title:
+    default: 'with Idnet'
+    client: true

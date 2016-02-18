@@ -1,0 +1,8 @@
+en:
+  site_settings:
+    idnet_enabled: 'Idnet login is enabled'
+    idnet_client_id: 'Idnet client ID'
+    idnet_client_secret: 'Idnet client secret'
+    idnet_auto_create_user: 'Automatically create the user after successfull id.net authorization (skips discourse modal)'
+    idnet_auto_login: 'Try to automatically log the user in through Ajax request'
+    idnet_button_title: 'Login button title'
